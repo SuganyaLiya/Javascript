@@ -36,3 +36,5 @@ var age=20
 //unary operator
 console.log(age > 18 && age < 60 && "adult");
 
+var m=meat
+

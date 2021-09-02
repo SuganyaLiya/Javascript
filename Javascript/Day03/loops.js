@@ -20,8 +20,8 @@
 //     console.log(city[i]);
 // }
 //new 
-// for(let city of cities)
-//     console.log(city);
+/for(let city of cities)
+   console.log(city);
 
 //break
 let key =3
